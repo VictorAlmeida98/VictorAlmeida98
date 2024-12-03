@@ -1,7 +1,10 @@
 ### _Olá, bem-vindos ao meu perfil_   
 
 #
-  
+<p> Graduando em Engenharia da Computação pela Faculdade Uniamérica/Descomplica e Técnico em Petróleo e Gás pelo IFRJ.
+
+Estou atualmente focado em aprimorar minhas habilidades em desenvolvimento Java com interesse em Data Science/Ciências de Dados, o que se alinha perfeitamente com meus estudos em Engenharia da Computação.</p>
+
   <div style="display: inline_block" align="center">
   <a href="https://github.com/VictorAlmeida98">
   <img alt="Victor-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
